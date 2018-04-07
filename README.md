@@ -1,1 +1,1 @@
-# jpetstroe-web
+# jpetstore-web
